@@ -4,6 +4,9 @@
 [![license](https://img.shields.io/github/license/onwwward/laravel-bugherd.svg?maxAge=2592000)]()
 [![Packagist](https://img.shields.io/packagist/v/onwwward/laravel-bugherd.svg?maxAge=2592000)]()
 
+![Vaadin Directory](https://img.shields.io/vaadin-directory/rating/vaadinvaadin-grid.svg)
+
+
 This is a Laravel 5 wrapper for the [PHP Bugherd Api](https://github.com/beleneglorion/php-bugherd-api) package.
 
 ##What is Bugherd?
